@@ -1,0 +1,55 @@
+BERT MODEL NAME = bert-large-uncased
+ONLY_FINETUNE = 0
+BATCH_SIZE = 32
+Learning Rate = 5e-05
+EPOCHS = 3
+BEST VAL ACCURACY - 0.5091743119266054
+BEST MACRO F1 - 0.33738601823708203
+BEST EPOCH - 0
+[[  0 428]
+ [  0 444]]
+====================================================================
+BERT MODEL NAME = bert-large-uncased
+ONLY_FINETUNE = 0
+BATCH_SIZE = 32
+Learning Rate = 2e-05
+EPOCHS = 3
+BEST VAL ACCURACY - 0.9323394495412844
+BEST MACRO F1 - 0.932242409076841
+BEST EPOCH - 0
+[[390  38]
+ [ 21 423]]
+====================================================================
+BERT MODEL NAME = bert-large-uncased
+ONLY_FINETUNE = 0
+BATCH_SIZE = 32
+Learning Rate = 3e-05
+EPOCHS = 3
+BEST VAL ACCURACY - 0.9346330275229358
+BEST MACRO F1 - 0.934560650285764
+BEST EPOCH - 0
+[[393  35]
+ [ 22 422]]
+====================================================================
+BERT MODEL NAME = bert-large-uncased
+ONLY_FINETUNE = 0
+BATCH_SIZE = 32
+Learning Rate = 4e-05
+EPOCHS = 3
+BEST VAL ACCURACY - 0.9197247706422018
+BEST MACRO F1 - 0.9196639150943396
+BEST EPOCH - 1
+[[389  39]
+ [ 31 413]]
+====================================================================
+BERT MODEL NAME = bert-large-uncased
+ONLY_FINETUNE = 0
+BATCH_SIZE = 32
+Learning Rate = 2e-05
+EPOCHS = 3
+BEST VAL ACCURACY - 0.9323394495412844
+BEST MACRO F1 - 0.932313723942402
+BEST EPOCH - 1
+[[398  30]
+ [ 29 415]]
+====================================================================
